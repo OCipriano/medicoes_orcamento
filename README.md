@@ -1,8 +1,8 @@
 # Painel de Medições e Orçamento para AutoCAD
 
-**Versão:** 1.0
-**Linguagem:** AutoLISP / DCL
-**Descrição:** Este módulo fornece um painel interativo no AutoCAD para realizar medições, contagem de blocos, extração de atributos, cálculo de volume e visualização de um dashboard acumulado.
+- **Versão:** 1.0
+- **Linguagem:** AutoLISP / DCL
+- **Descrição:** Este módulo fornece um painel interativo no AutoCAD para realizar medições, contagem de blocos, extração de atributos, cálculo de volume e visualização de um dashboard acumulado.
 
 ---
 
@@ -71,19 +71,19 @@ ou
 ## 📋 Fluxo de Uso
 
 1. **Abrir painel:**
-- O painel principal mostra todas as seções e botões.
+  - O painel principal mostra todas as seções e botões.
 
 2. **Selecionar objetos para medição ou contagem:**
-- Selecionar polilinhas, linhas ou blocos conforme o botão escolhido.
+  - Selecionar polilinhas, linhas ou blocos conforme o botão escolhido.
 
 3. **Visualizar resultados:**
-- Cada ação mostra um modal com os resultados e acumulados.
+  - Cada ação mostra um modal com os resultados e acumulados.
 
 4. **Dashboard:**
-- Exibe resumo de todas as medições e contagens acumuladas.
+  - Exibe resumo de todas as medições e contagens acumuladas.
 
 5. **Reset:**
-- Reinicia todos os acumuladores para começar novo trabalho.
+  - Reinicia todos os acumuladores para começar novo trabalho.
 
 ---
 
