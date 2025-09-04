@@ -85,7 +85,7 @@ ou
 5. **Reset:**
   - Reinicia todos os acumuladores para começar novo trabalho.
 
-![Uploading image.png…]()
+![ScreenShot](https://raw.githubusercontent.com/OCipriano/medicoes_orcamento/refs/heads/main/Screenshot%202025-09-04%20170123.png)
 
 ---
 
