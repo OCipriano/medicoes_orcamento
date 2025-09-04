@@ -85,6 +85,8 @@ ou
 5. **Reset:**
   - Reinicia todos os acumuladores para começar novo trabalho.
 
+![Uploading image.png…]()
+
 ---
 
 ## 📁 Estrutura do Código
