@@ -4,6 +4,8 @@
 - **Linguagem:** AutoLISP / DCL
 - **Descrição:** Este módulo fornece um painel interativo no AutoCAD para realizar medições, contagem de blocos, extração de atributos, cálculo de volume e visualização de um dashboard acumulado.
 
+![ScreenShot](https://raw.githubusercontent.com/OCipriano/medicoes_orcamento/refs/heads/main/Screenshot%202025-09-04%20170123.png)
+
 ---
 
 ## 🚀 Funcionalidades
@@ -84,8 +86,6 @@ ou
 
 5. **Reset:**
   - Reinicia todos os acumuladores para começar novo trabalho.
-
-![ScreenShot](https://raw.githubusercontent.com/OCipriano/medicoes_orcamento/refs/heads/main/Screenshot%202025-09-04%20170123.png)
 
 ---
 
